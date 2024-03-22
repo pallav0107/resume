@@ -1,0 +1,230 @@
+{
+  "profile": {
+      "name": "Pallav Pokhriyal",
+      "contact": {
+        "phone": "0416283705",
+        "email": "pallav01@gmail.com"
+      },
+      "linkedin": "https://www.linkedin.com/in/pallav-pokhriyal-83b90715/"
+    },
+  "summary": "Software engineer with 15+ years of experience in enterprise application development. Experience in running applications on-premises, hybrid or native in AWS.",
+  "skills": {
+      "frontEnd": ["Angular 13", "React 18", "Node", "Next js"],
+      "backEnd": [".NET 6+", "ASP.NET", "Web API", "EF Core", "C#", "Entity framework", "docker/containers", "xUnit"],
+      "databases": ["SQL Server 2016-higher", "Postgres"],
+      "ciCd": ["TeamCity", "Jenkins", "Azure devops"],
+      "scriptingLanguage": ["Typescript", "JavaScript"],
+      "cvs": ["GitHub", "bitbucket"],
+      "awsCloud": ["EC2", "AWS Lambda", "AWS Fargate", "AWS ECR", "Cloudwatch", "AWS Resource Manager", "Key-vault", "AWS Active Directory", "AWS Load Balancer", "AWS DNS", "AWS Content Delivery Network", "AWS S3 Storage", "AWS Virtual Network", "API Gateway", "AWS Service Bus", "AWS Event Grid"],
+      "architecture": ["Design Patterns", "microservices", "CQRS", "DDD", "TDD"]
+    },
+  "certifications": ["Azure Developer Certificate AZ-204", "Azure Solutions Architect AZ- 305", "Amazon Architect Associate Certificate"],
+  "education": [
+      {
+        "university": "Mumbai University",
+        "degree": "Bachelor of Engineering",
+        "major": "Electronics"
+      },
+      {
+        "university": "Queensland University of Technology",
+        "degree": "Master of Science",
+        "major": "Computers"
+      }
+    ],
+  "projects": [
+      {
+        "client": "ING in Sydney",
+        "designation": "Tech Lead - Software Developer",
+        "teamSize": 6,
+        "duration": "January 2023 – Present",
+        "environment": ["React", "Angular", "Node.js", "C# .net", "MS SQL", "Kubernetes", "lambda", "Kafka"],
+        "brief": "As a developer at ING Bank, I'm responsible for modernizing core banking, payments, and broker platforms using the latest technology...",
+        "achievements": "During the Discovery Phase, ING Bank successfully conducted extensive market research, pinpointed specific operational needs, fostered alignment among stakeholders, assessed advanced technology options, and established a robust regulatory compliance framework.",
+        "responsibilities": [
+          "Application Development",
+          "Database Management",
+          "Testing",
+          "Front-end Development",
+          "Integration",
+          "Cloud Deployment",
+          "Containerization",
+          "Event Sourcing"
+        ]
+      },
+      {
+        "client": "CBA in Sydney",
+        "designation": "Tech Lead - Software Developer",
+        "teamSize": 5,
+        "duration": "October 2022 – January 2023",
+        "environment": ["React", "Angular", "Node.js", "C# .net", "MS SQL", "Kubernetes", "lambda", "kafka"],
+        "brief": "As a developer, I'll integrate NPP payments with MPS, enabling customizable subscription agreements...",
+        "achievements": "Improved business's customer management system, providing a centralized platform to manage customer information and payments. This project streamlines the payment process, improves the customer experience.",
+        "responsibilities": [
+          "Application Development",
+          "Database Management",
+          "Testing",
+          "Front-end Development",
+          "Integration",
+          "Cloud Deployment",
+          "Containerization",
+          "Event Sourcing"
+        ]
+      },
+      {
+        "client": "NSW Transport in Sydney",
+        "designation": "Tech Lead - Software Developer - via Recruitment Company",
+        "teamSize": 5,
+        "duration": "February 2021 – October 2022",
+        "environment": ["C# .net core", "React", "Node.js", "MS SQL", "JEST test cases", "kubernetes", "kafka"],
+        "brief": "As a developer on this project, I collaborate to enhance on-time performance in the NSW Transport network...",
+        "achievements": "The project reduced transportation delays with data analytics, improved scheduling and infrastructure, and ensured reliability through stakeholder collaboration and monitoring.",
+        "responsibilities": [
+          "Containerized Application Development",
+          "Database Management",
+          "Testing",
+          "Front-end Development",
+          "Integration",
+          "Cloud Deployment",
+          "Container Orchestration",
+          "Event Sourcing"
+        ]
+      },
+      {
+        "client": "Westpac in Sydney",
+        "designation": "Tech Lead - Software Developer via Infosys/ Recruitment Company",
+        "teamSize": 5,
+        "duration": "October 2018 – February 2021",
+        "environment": ["HTML5", "CSS", "REACT JS", "NodeJS", "Swagger", "MS SQL", "JEST test cases", "AWS", "Azure"],
+        "brief": "As a developer on this project, I'll focus on building a loan generation platform for Westpac, a leading Australian bank...",
+        "achievements": "Developed Westpac's loan platform with digital application, credit assessment, and loan management tools, enhancing customer experience and streamlining loan approvals",
+        "responsibilities": [
+          "Frontend Development",
+          "Backend Development",
+          "API Development",
+          "Database Development",
+          "Test Case Development",
+          "Cloud Computing",
+          "Maintenance and Support"
+        ]
+      },
+      {
+        "client": "Mortgage-choice in Sydney",
+        "designation": "Senior Software Engineer",
+        "teamSize": 2,
+        "duration": "January 2018 – October 2018",
+        "environment": ["HTML5", "CSS", ". Net CORE 2.0", "C#", "React 13", "Angular JS5", "Node JS", "Grunt", "N-Unit", "MOQ", "TFS", "MS SQL",
+        "Entity Framework for ORM solutions",
+        "Mongo DB"
+      ],
+      "brief": "As a developer on this project, I aim to develop a mortgage broker platform for Mortgage Choice, a leading Australian mortgage broker...",
+      "achievements": "Developed Mortgage Choice's loan platform with digital application, credit assessment, and loan management tools, enhancing customer experience and streamlining loan approvals",
+      "responsibilities": [
+        "Backend Development",
+        "Frontend Development",
+        "Database Development",
+        "API Development",
+        "Build and Deployment",
+        "Test Case Development",
+        "Version Control",
+        "Maintenance and Support"
+      ]
+    },
+    {
+      "client": "Electroboard in Sydney",
+      "designation": "Senior Software Engineer (Module Lead)",
+      "teamSize": 5,
+      "duration": "August 2017 – December 2017",
+      "environment": ["HTML5", "CSS", ".Net Framework 4.0", "C#", "WCF", "WPF", "SilverLight", "ASP.NET MVC 4", "ASP.NET WEB API", "AJAX", "JQUERY", "Node JS", "N-Unit", "MOQ", "TFS", "Oracle 11i", "Entity Framework for ORM solutions"],
+      "brief": "Developing an inventory management platform for Electroboard, an Australian AV system provider...",
+      "achievements": "Implemented inventory management platform for Electroboard, centralizing inventory management, track stock levels, and generate purchase orders.",
+      "responsibilities": [
+        "Backend Development",
+        "Frontend Development",
+        "Service Development",
+        "Database Development",
+        "API Development",
+        "JavaScript Development",
+        "Test Case Development",
+        "Version Control",
+        "Maintenance and Support"
+      ]
+    },
+    {
+      "client": "Roche Diagnostics International A.G, Switzerland as part of Accenture Services Ltd.",
+      "designation": "Senior Software Engineer (Module Lead)",
+      "teamSize": 25,
+      "duration": "July 2014 - Dec 2016",
+      "environment": [".Net Framework 4.0", "C#", "WCF", "REST", "WPF", "Silverlight", "ASP.NET MVC 5", "ASP.NET WEB API", "AJAX", "JQUERY", "UNTIY", "N-Unit", "MOQ", "TFS", "Oracle 11i", "Entity Framework for ORM solutions", "NServiceBus"],
+      "brief": "Implementing Cobas 4800, 6800 systems and P480 Pooler at Roche Diagnostics to enhance diagnostic capabilities...",
+      "achievements": "Implemented Cobas 4800, 6800 systems and P480 Pooler at Roche Diagnostics to enhance diagnostic capabilities, providing faster, precise diagnoses.",
+      "responsibilities": [
+        "Design, development, and testing of software applications.",
+        "Writing high-quality, maintainable, and testable code in C#.",
+        "Utilizing WCF and REST to develop scalable and secure web services.",
+        "Building rich user interfaces using WPF and Silverlight.",
+        "Implementing web applications using ASP.NET MVC 5 and ASP.NET WEB API.",
+        "Implementing unit tests using UNITY, N-Unit, and MOQ.",
+        "Using TFS for source control and continuous integration.",
+        "Utilizing Entity Framework for ORM solutions.",
+        "Utilizing NServiceBus for messaging and communication between components.",
+        "Debugging and troubleshooting software issues.",
+        "Collaborating with cross-functional teams, such as designers and QA engineers, to ensure the delivery of high-quality software.",
+        "Keeping up-to-date with the latest technologies and industry trends."
+      ]
+    }
+  ],
+  "experiences": [
+    {
+      "title": "Staff Engineer",
+      "company": "ING",
+      "duration": "January 2022 - present"
+    },
+    {
+      "title": "Staff Engineer",
+      "company": "CBA",
+      "duration": "October 2022 - January 2023"
+    },
+    {
+      "title": "Tech Lead",
+      "company": "NSW Transport",
+      "duration": "November 2021 - October 2022"
+    },
+    {
+      "title": "Senior Engineer",
+      "company": "Westpac",
+      "duration": "October 2018 – Oct 2021"
+    },
+    {
+      "title": "Web Developer Integration specialist",
+      "company": "Mortgagechoice",
+      "duration": "January 2018 – October 2018"
+    },
+    {
+      "title": "Web Developer Integration specialist",
+      "company": "Electroboard PTY Ltd.",
+      "duration": "June 2017  - December 2017"
+    },
+    {
+      "title": "Senior Software Engineer",
+      "company": "IBSPLC",
+      "duration": "January 2017 - June 2017"
+    },
+    {
+      "title": "Senior Software Engineer",
+      "company": "Accenture Services",
+      "duration": "January 2013 - January 2017"
+    },
+    {
+      "title": "Senior Software Engineer",
+      "company": "Aufait Services",
+      "duration": "February 2012 – January 2013"
+    },
+    {
+      "title": "Software Developer",
+      "company": "3I InfoTech",
+      "duration": "January 2010 – February 2012"
+    }
+  ],
+  "referees": "References will be provided upon request."
+}
+    

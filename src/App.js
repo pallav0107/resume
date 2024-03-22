@@ -1,0 +1,24 @@
+import React from 'react';
+import { Container, Paper } from '@material-ui/core';
+import ProfileSummary from './ProfileSummary';
+import SkillList from './SkillList';
+import CertificationAndEducation from './CertificationAndEducation';
+import Experience from './Experience';
+import data from './data.json'; // Importing JSON data
+
+function App() {
+  const { profile, certifications, education, experiences, skills } = data;
+  console.log("=>profile", profile);
+  return (
+    <Container maxWidth="md" style={{ marginTop: '20px' }}>
+      <Paper elevation={3} style={{ padding: '20px', overflowY: 'auto', maxHeight: '80vh' }}>
+        <ProfileSummary  profile={profile}/>
+        <SkillList skills={skills} /> 
+        <CertificationAndEducation certifications={certifications} education={education} />
+        <Experience experiences={experiences} />
+      </Paper>
+    </Container>
+  );
+}
+
+export default App;
