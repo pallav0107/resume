@@ -175,54 +175,77 @@
   ],
   "experiences": [
     {
-      "title": "Staff Engineer",
-      "company": "ING",
-      "duration": "January 2022 - present"
+      "title": "Tech Lead - Software Developer",
+      "company": "ING in Sydney",
+      "team": 6,
+      "duration": "January 2023 - Present",
+      "environment": ["React", "Angular", "Node.js", "C# .NET", "MS SQL", "Kubernetes", "AWS Lambda", "Kafka"],
+      "brief": "Responsible for modernizing core banking, payments, and broker platforms using the latest technology. Focus on optimizing transaction processes, ensuring regulatory compliance, and improving operational efficiency. Develop and integrate software solutions to enhance the banking experience for customers.",
+      "achievements": "Conducted extensive market research, pinpointed specific operational needs, fostered alignment among stakeholders, assessed advanced technology options, and established a robust regulatory compliance framework.",
+      "responsibilities": [
+        "Application Development using ASP.NET Core, EF Core, C#, and React",
+        "Database Management using SQL Server",
+        "Testing: Develop and execute unit and integration tests",
+        "Front-end Development using React, hooks, TypeScript, CSS, and HTML",
+        "Integration: Implement asynchronous messaging using AWS SQS and AWS Lambda",
+        "Cloud Deployment using AWS services like AWS Lambda, AWS EKS, and AWS CodePipeline",
+        "Containerization: Manage and deploy applications in containers using Docker",
+        "Event Sourcing: Implement event sourcing techniques"
+      ]
     },
     {
-      "title": "Staff Engineer",
-      "company": "CBA",
-      "duration": "October 2022 - January 2023"
+      "title": "Tech Lead - Software Developer",
+      "company": "CBA in Sydney",
+      "team": 5,
+      "duration": "October 2022 - January 2023",
+      "environment": ["React", "Angular", "Node.js", "C# .NET", "MS SQL", "Kubernetes", "AWS Lambda", "Kafka"],
+      "brief": "Integrate NPP payments with MPS, enabling customizable subscription agreements. Develop APIs to integrate NPP with the customer management system, centralizing payment and customer data. Streamline payments, enhance customer experience, and ensure efficient management.",
+      "achievements": "Improved business's customer management system, providing a centralized platform to manage customer information and payments. Streamlined the payment process, improving customer experience.",
+      "responsibilities": [
+        "Application Development using ASP.NET Core, EF Core, C#, and React",
+        "Database Management using SQL Server",
+        "Testing: Develop and execute unit and integration tests",
+        "Front-end Development using React, hooks, TypeScript, CSS, and HTML",
+        "Integration: Implement asynchronous messaging using AWS SQS and AWS Lambda",
+        "Cloud Deployment using AWS services like AWS Lambda, AWS EKS, and AWS CodePipeline",
+        "Containerization: Manage and deploy applications in containers using Kubernetes and Helm",
+        "Event Sourcing: Apply event sourcing techniques"
+      ]
     },
     {
-      "title": "Tech Lead",
-      "company": "NSW Transport",
-      "duration": "November 2021 - October 2022"
+      "title": "Tech Lead - Software Developer",
+      "company": "NSW Transport in Sydney",
+      "team": 5,
+      "duration": "February 2021 - October 2022",
+      "environment": ["C# .NET Core", "React", "Node.js", "MS SQL", "JEST", "Kubernetes", "Kafka"],
+      "brief": "Enhance on-time performance in the NSW Transport network. Collaborate to identify delays' root causes and contribute to initiatives like scheduling changes, infrastructure improvements, and better commuter communication. Monitor performance closely and adjust initiatives for sustained improvements.",
+      "achievements": "Reduced transportation delays with data analytics, improved scheduling and infrastructure, and ensured reliability through stakeholder collaboration and monitoring.",
+      "responsibilities": [
+        "Containerized Application Development using Docker, ASP.NET Core, EF Core, C#, and React",
+        "Database Management using SQL Server within Docker containers",
+        "Testing: Write and execute unit and integration tests within Docker containers",
+        "Front-end Development using React, hooks, TypeScript, CSS, and HTML within Docker containers",
+        "Integration: Implement asynchronous messaging integration patterns within Docker containers using AWS SQS and AWS Lambda",
+        "Cloud Deployment using Docker and AWS services like AWS Lambda, AWS EKS, and AWS CodePipeline",
+        "Container Orchestration using Docker and Kubernetes",
+        "Event Sourcing: Apply event sourcing techniques"
+      ]
     },
     {
-      "title": "Senior Engineer",
-      "company": "Westpac",
-      "duration": "October 2018 – Oct 2021"
-    },
-    {
-      "title": "Web Developer Integration specialist",
-      "company": "Mortgagechoice",
-      "duration": "January 2018 – October 2018"
-    },
-    {
-      "title": "Web Developer Integration specialist",
-      "company": "Electroboard PTY Ltd.",
-      "duration": "June 2017  - December 2017"
-    },
-    {
-      "title": "Senior Software Engineer",
-      "company": "IBSPLC",
-      "duration": "January 2017 - June 2017"
-    },
-    {
-      "title": "Senior Software Engineer",
-      "company": "Accenture Services",
-      "duration": "January 2013 - January 2017"
-    },
-    {
-      "title": "Senior Software Engineer",
-      "company": "Aufait Services",
-      "duration": "February 2012 – January 2013"
-    },
-    {
-      "title": "Software Developer",
-      "company": "3I InfoTech",
-      "duration": "January 2010 – February 2012"
+      "title": "Tech Lead - Software Developer",
+      "company": "Westpac in Sydney",
+      "team": 5,
+      "duration": "October 2018 - February 2021",
+      "environment": ["HTML5", "CSS", "ReactJS", "NodeJS", "Swagger", "MS SQL", "JEST", "AWS", "Azure"],
+      "brief": "Focus on building a loan generation platform for Westpac, a leading Australian bank. Provide a seamless digital experience for loan applications, leveraging analytics and machine learning. Integration with Westpac's systems and regulatory compliance are top priorities.",
+      "achievements": "Developed Westpac's loan platform with digital application, credit assessment, and loan management tools, enhancing customer experience and streamlining loan approvals.",
+      "responsibilities": [
+        "Frontend Development using React, HTML5, and CSS",
+        "Backend Development using NodeJS",
+        "API Development using Swagger",
+        "Database Development using MS SQL",
+        "Test Case Development using JEST"
+      ]
     }
   ],
   "referees": "References will be provided upon request."

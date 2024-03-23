@@ -12,12 +12,20 @@ function Experience({ experiences }) {
               <ListItemText
                 primary={experience.company}
                 secondary={
-                  <>
-                    <Typography component="span" variant="body2" color="textPrimary">
-                      {experience.designation}
-                    </Typography>
-                    {" - " + experience.duration}
-                  </>
+                  <div>
+                    <Typography variant="body1">{experience.title}</Typography>
+                    <Typography variant="body2">Team: {experience.team}</Typography>
+                    <Typography variant="body2">Duration: {experience.duration}</Typography>
+                    <Typography variant="body2">Environment: {experience.environment.join(', ')}</Typography>
+                    <Typography variant="body2">Brief: {experience.brief}</Typography>
+                    <Typography variant="body2">Achievements: {experience.achievements}</Typography>
+                    <Typography variant="h6" component="h3">Responsibilities</Typography>
+                    <ul>
+                      {experience.responsibilities.map((responsibility, i) => (
+                        <li key={i}>{responsibility}</li>
+                      ))}
+                    </ul>
+                  </div>
                 }
               />
             </ListItem>

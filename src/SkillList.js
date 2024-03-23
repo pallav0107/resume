@@ -1,5 +1,5 @@
 import React from 'react';
-import { Card, CardContent, Typography } from '@material-ui/core';
+import { Card, CardContent, Typography, Grid } from '@material-ui/core';
 
 function SkillList({ skills }) {
   return (
@@ -8,10 +8,14 @@ function SkillList({ skills }) {
         <Typography variant="h5" component="h2">Skills</Typography>
         {Object.entries(skills).map(([category, skillList]) => (
           <div key={category}>
-            <Typography variant="subtitle1">{category}</Typography>
-            <Typography variant="body1">
-              {skillList.join(', ')}
-            </Typography>
+            <Grid container spacing={2} alignItems="center">
+              <Grid item>
+                <Typography variant="subtitle1" style={{ fontWeight: 'bold' }}>{category}</Typography>
+              </Grid>
+              <Grid item>
+                <Typography variant="body1">{skillList.join(', ')}</Typography>
+              </Grid>
+            </Grid>
           </div>
         ))}
       </CardContent>
